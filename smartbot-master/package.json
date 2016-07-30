@@ -1,0 +1,22 @@
+{
+  "name": "store-bot",
+  "version": "0.0.0",
+  "description": "StoreBot",
+  "main": "app.js",
+  "author": {
+    "name": "samsonleewin10"
+  },
+  "repository": "https://github.com/samsonleewin10/dockerdemo",
+  "dependencies": {
+    "applicationinsights": "^0.15.17",
+    "botbuilder": "^3.1.0",
+    "geocode-wifi": "^1.0.1",
+    "geotrouvetou": "0.0.1",
+    "node-wifi-scanner": "^1.0.0",
+    "restify": "^4.1.1",
+    "sudo": "^1.0.3",
+    "gulp": "^3.9.1",
+    "gulp-tsc": "^1.2.0",
+    "gulp-zip": "^3.2.0"
+  }
+}
